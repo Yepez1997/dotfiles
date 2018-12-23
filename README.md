@@ -1,1 +1,4 @@
-# vimconfig
+# dotfiles
+
+## bashrc file 
+## vim file :
