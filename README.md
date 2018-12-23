@@ -1,4 +1,4 @@
 # dotfiles
 
 ## bashrc file 
-## vim file :
+## vim file 
